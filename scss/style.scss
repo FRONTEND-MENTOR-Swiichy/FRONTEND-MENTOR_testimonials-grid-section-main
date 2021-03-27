@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    width: 75%;
+    max-width: 1440px;
     height: 100vh;
     @extend %flex-center;
     margin: auto;
